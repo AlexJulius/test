@@ -1,5 +1,4 @@
 <?php 
-// bla foo
-// aksdfjksd
+echo "bla foo";
 
-echo "Test, Test, Mikro check\n";
+//echo "Test, Test, Mikro check\n";
